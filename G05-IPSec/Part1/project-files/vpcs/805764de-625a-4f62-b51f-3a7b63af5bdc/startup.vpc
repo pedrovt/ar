@@ -1,0 +1,16 @@
+# This the configuration for Server2
+
+#
+
+# Uncomment the following line to enable DHCP
+
+# dhcp
+
+# or the line below to manually setup an IP address and subnet mask
+ip 192.168.0.45 255.255.255.255.0 192.168.0.1
+
+#
+
+
+
+set pcname Server2
